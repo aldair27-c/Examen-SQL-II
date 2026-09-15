@@ -1,4 +1,4 @@
-# 🍕 Base de Datos — Pizzería Don Piccolo
+# 🍕 Base de Datos — Pizzería
 
 ## 1. Descripción del proyecto
 
